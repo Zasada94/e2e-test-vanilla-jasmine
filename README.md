@@ -2,7 +2,7 @@
 Testing "Adding" calculator function using Jasmine and Puppeteer - task that we made on ALK Frontend Development with React studies.
 
 ## How to install:
-- install packages with npm install,
+- install packages with "npm install" command in terminal,
 - use "npm start" to start the App,
 - use "npm run test-1" command to start the test.
 
